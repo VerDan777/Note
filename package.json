@@ -8,7 +8,8 @@
   },
   "author": {
     "name": "Daniil",
-    "email": "vereshhagin98@mail.ru"
+    "email": "vereshhagin98@mail.ru",
+    "url": "https://github.com/VerDan777/Note.git"
   },
   "dependencies": {
     "axios": "^0.9.1",
